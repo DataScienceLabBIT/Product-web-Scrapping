@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "price-of-food",
+  "private_key_id": "e85065acc2f085b88c19e6facf651c7909b2ad55",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCtt6ktJyIi4zAT\n9lbYxW0nvKpDbYIcdR7PV04jPdLFj1cMhlNLcCuEVN+kW9879sgmff33aCxNThzQ\nfGiXDxsbEBTxpDa6iI3yzeIhhqu2q3wvtpsr4eJXdDwMJPpmh/01qG7Ol1/NkbOr\nVZUU75hkkwTQ4xLwUbF/XYi5a6FntLUTRp6ndXvV7S/ZGdkO6B2VgX5z07zea1JI\nRvG9T9Xai9WGdNzr8qvasOAu9Se364YofqcQ7EB9HfmxjKZ16rqoWGml7VG5ofUl\nGJhYhiFFRtJWf8LxFMXTOPwa7iThRYOx8Iqn7p5hBuOgpbceyWc37up8IWFUn/bt\nVP1iAPf5AgMBAAECggEABG5ZMrKl10KjmPlr8QQ61YxQF3+Klb6TC5zhfFqjrrBf\npbfOFhrasU8Xk/ICpAfrxmI+Vno3bxKyqiASQZAmvoOkKnRoL6KIubcbW9mQiwyd\nZ/t+F8TKPjV+dpzW2kNWZ8ZPv+tH4U7PHhavwnnzZtVX28V/AoGYR8m9/A93wtUO\nvffJQ/yUgFqB6gecFauTtx4cTUF5wYkKVJpDJx+r0hxdMMe5b9tt07kWD2WepJYl\nua/+eFOUTksDIsUzHHAU+5FtE0v5DG961IV2E6HTMXXEgHEBCBk6lT8YoXJ42t1/\n7xc0JmrBaanTBilOd2YWZutmkgaSNOLE/qBI6VyHgQKBgQDcQ9IoJEHj8Zyo68Zr\naZsin6VKSibDKVfoL58jeyM/filBWzNrzmhikJqI8hNlFswTN0bB2zF11PYX+WKH\nD5x4E1p2FMnocsjTa6DfWul2LfEaYfR7PaN4h08L3pFMUO7Yf0RQzGSuiRp3UcAm\ntYTOW972rG29tACL2+9n4gHqSQKBgQDJ5pmw/vZ3b6vPE3rRp5k8gBIYl6oqgabb\nuvHccQLW6uEuDZxFovI3Ctp++vp1+fn74A77kgPLPOieumkH0gk7O9pF8q52Buha\npD0Uje+/kX74ZTqn24aI/+czYZx0gujy4SE9VfaxWVeRN56qfX/xrhlsUZgj8LgK\nh1/V34ogMQKBgQC/5FoHXKcGtaxcwaOIWmWsAVdX5EfmyHLsNei3WYS4wOmiJZkj\nt5vbGs12tybMb9L0frinFJX/aLvI4RvEPIZ9Wab6rlvEpZNuFRr+203/BkFBUctT\nPrzWuVLVLV56FRwwApf6qEaig5FKGC+Fyafcu88AKfIlTdcYAVCNuSkf+QKBgG8n\nvvu8ExNEbtGNxvOAExRE6jGR5kSKpsOYU6nqqgaKv7hsE9oe0L1PA2YfZR7opiFu\nhLEp/V66RNOGi2ab0ytCU3RpHHWsbeXhQCN91T2hq8azbKyXZqUsRix6k/ltTTTS\nj0tGdY/EQTqY5Yi1mWgEUsjYzysSTzC0wSVtcY0xAoGBAIPLShgmM7l14xpbu4Hc\nlOn8LCYshhjtamlgxOcCMUb4ne6Wulusymo/RNYKxDsSaH7NSxOczN8SgzxkGCWa\nhkhkXJUDcQqDQayPY7sqEC/wdB6p2dwXmOy5I2wjscSOD7beBLSFAzM8b/Ek320x\nb+9Lht6meyVPw6doKaESVppc\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-xuyow@price-of-food.iam.gserviceaccount.com",
+  "client_id": "113358121479610128511",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-xuyow%40price-of-food.iam.gserviceaccount.com"
+}
