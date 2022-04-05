@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "351666050616",
+    "firebase_url": "https://price-of-food-default-rtdb.firebaseio.com",
+    "project_id": "price-of-food",
+    "storage_bucket": "price-of-food.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351666050616:android:7925b7cb0b576f0ede38cd",
+        "android_client_info": {
+          "package_name": "com.kk.price"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351666050616-75kmnhnvg7r8936u6e5nuse08f8tlfh2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYuDc1TkH6h4L1iYYIZC-pc9YIAvSCyZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351666050616-75kmnhnvg7r8936u6e5nuse08f8tlfh2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

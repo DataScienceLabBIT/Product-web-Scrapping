@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".first">
+
+    <FrameLayout
+        android:id="@+id/frame"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/armygrey">
+
+
+        <View
+            android:id="@+id/leftdd"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="15dp"
+            />
+        <TextView
+            android:id="@+id/mr"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="55dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="17dp"
+            android:gravity="center_horizontal"
+            android:fontFamily="@font/zilla_slab_bold"
+            android:text="Mr.Price"
+            android:textColor="@color/white"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+
+
+        <ImageView
+            android:id="@+id/menus"
+            android:layout_width="34dp"
+            android:layout_height="28dp"
+            android:layout_gravity="end"
+            android:layout_marginTop="17dp"
+            android:layout_marginEnd="10dp"
+            android:src="@drawable/ic_baseline_more_vert_24" />
+
+
+
+
+
+    </FrameLayout>
+
+    <com.google.android.material.tabs.TabLayout
+        android:layout_below="@id/frame"
+        android:id="@+id/tab_layout"
+        android:layout_width="match_parent"
+        app:tabMaxWidth="0dp"
+        android:layout_height="50dp"
+        android:background="@color/armygrey"
+        app:tabGravity="fill"
+        android:clickable="false"
+        app:tabIndicatorColor="@color/white"
+        app:tabIndicatorHeight="3dp"
+        app:tabMode="fixed"
+        app:tabSelectedTextColor="@color/white"
+        app:tabTextColor="@color/white" />
+
+
+    <androidx.viewpager2.widget.ViewPager2
+        android:id="@+id/view_pager2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/tab_layout" />
+
+</RelativeLayout>
